@@ -2,75 +2,93 @@
   "cars": [
     {
       "id": 1,
-      "make": "Ferrari",
-      "image": "https://thesupremecarinitiative.com/wp-content/uploads/2020/07/e9677798-7b8b-42b1-becf-387235c70b2a.jpeg",
-      "model": "ferrari f8 tributo",
+      "make": "Ferarri",
+      "image": "https://pictures.topspeed.com/IMG/crop/201902/ferrari-reveals-the--7_800x0w.jpg",
+      "model": "F8 Tributo",
       "hp": 710,
-      "year":2020,
-      "type": "Sports"
+      "year": 2020,
+      "sports": true
     },
     {
       "id": 2,
-      "make": "Ferrari",
-      "image": "https://thesupremecarinitiative.com/wp-content/uploads/2020/07/e9677798-7b8b-42b1-becf-387235c70b2a.jpeg",
-      "model": "ferrari f8 tributo",
-      "hp": 710,
-      "year":2020,
-      "type": "Sports"
+      "make": "Ford",
+      "image": "https://media.ed.edmunds-media.com/ford/bronco/1993/oem/1993_ford_bronco_2dr-suv_eddie-bauer_fq_oem_1_500.jpg",
+      "model": "Bronco",
+      "hp": 185,
+      "year": 1993,
+      "sports": false
     },
     {
       "id": 3,
-      "make": "Ferrari",
-      "image": "https://thesupremecarinitiative.com/wp-content/uploads/2020/07/e9677798-7b8b-42b1-becf-387235c70b2a.jpeg",
-      "model": "ferrari f8 tributo",
-      "hp": 710,
-      "year":2020,
-      "type": "Sports"
+      "make": "Dodge",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7LK2fchXOJNK0_v5p3TpZlDMYZZP6auYpA&usqp=CAU",
+      "model": "Durango",
+      "hp": 360,
+      "year": 2021,
+      "sports": false
     },
     {
       "id": 4,
-      "make": "Ferrari",
-      "image": "https://thesupremecarinitiative.com/wp-content/uploads/2020/07/e9677798-7b8b-42b1-becf-387235c70b2a.jpeg",
-      "model": "ferrari f8 tributo",
-      "hp": 710,
-      "year":2020,
-      "type": "Sports"
+      "make": "Lamborghini",
+      "image": "https://i.ytimg.com/vi/qft8lwmQzns/maxresdefault.jpg",
+      "model": "Aventador",
+      "hp": 730,
+      "year": 2021,
+      "sports": true
     },
     {
       "id": 5,
-      "make": "Ferrari",
-      "image": "https://thesupremecarinitiative.com/wp-content/uploads/2020/07/e9677798-7b8b-42b1-becf-387235c70b2a.jpeg",
-      "model": "ferrari f8 tributo",
-      "hp": 710,
-      "year":2020,
-      "type": "Sports"
+      "make": "Jeep",
+      "image": "https://www.motortrend.com/uploads/sites/10/2015/11/2013-jeep-patriot-latitude-suv-angular-front.png",
+      "model": "Patriot",
+      "hp": 158,
+      "year": 2013,
+      "sports": false
     },
     {
       "id": 6,
-      "make": "Ferrari",
-      "image": "https://thesupremecarinitiative.com/wp-content/uploads/2020/07/e9677798-7b8b-42b1-becf-387235c70b2a.jpeg",
-      "model": "ferrari f8 tributo",
-      "hp": 710,
-      "year":2020,
-      "type": "Sports"
+      "make": "Corvette",
+      "image": "https://www.designnews.com/sites/designnews.com/files/Design%20News/2020-Chevrolet-Corvette-Stingray-004.jpg",
+      "model": "Stingray",
+      "hp": 495,
+      "year": 2020,
+      "sports": true
     },
     {
       "id": 7,
-      "make": "Ferrari",
-      "image": "https://thesupremecarinitiative.com/wp-content/uploads/2020/07/e9677798-7b8b-42b1-becf-387235c70b2a.jpeg",
-      "model": "ferrari f8 tributo",
-      "hp": 710,
-      "year":2020,
-      "type": "Sports"
+      "make": "BMW",
+      "image": "https://www.motortrend.com/uploads/sites/5/2020/01/2019-BMW-i8-Coupe-8.jpg",
+      "model": "i8",
+      "hp": 369,
+      "year": 2020,
+      "sports": true
     },
     {
       "id": 8,
-      "make": "Ferrari",
-      "image": "https://thesupremecarinitiative.com/wp-content/uploads/2020/07/e9677798-7b8b-42b1-becf-387235c70b2a.jpeg",
-      "model": "ferrari f8 tributo",
-      "hp": 710,
-      "year":2020,
-      "type": "Sports"
+      "make": "Subaru",
+      "image":"https://images.hgmsites.net/lrg/2016-subaru-outback_100512697_l.jpg",
+      "model": "Outback",
+      "hp": 175,
+      "year": 2016,
+      "sports": false
+    },
+    {
+      "id": 9,
+      "make": "Porsche",
+      "image": "https://www.electrive.com/wp-content/uploads/2019/09/porsche-taycan-2019-002-min.png",
+      "model": "Taycan",
+      "hp": 616,
+      "year": 2021,
+      "sports": true
+    },
+    {
+      "id": 10,
+      "make": "Cadillac",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2020-cadillac-escalade-001-1567021710.jpg?crop=0.481xw:0.568xh;0.309xw,0.432xh&resize=640:*",
+      "model": "Escalade",
+      "hp": 420,
+      "year": 2021,
+      "sports": false 
     }
   ]
 }
