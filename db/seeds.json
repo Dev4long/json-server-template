@@ -7,7 +7,7 @@
       "model": "F8 Tributo",
       "hp": 710,
       "year": 2020,
-      "sports": true
+      "sport": true
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "model": "Bronco",
       "hp": 185,
       "year": 1993,
-      "sports": false
+      "sport": false
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "model": "Durango",
       "hp": 360,
       "year": 2021,
-      "sports": false
+      "sport": false
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "model": "Aventador",
       "hp": 730,
       "year": 2021,
-      "sports": true
+      "sport": true
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "model": "Patriot",
       "hp": 158,
       "year": 2013,
-      "sports": false
+      "sport": false
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "model": "Stingray",
       "hp": 495,
       "year": 2020,
-      "sports": true
+      "sport": true
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "model": "i8",
       "hp": 369,
       "year": 2020,
-      "sports": true
+      "sport": true
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "model": "Outback",
       "hp": 175,
       "year": 2016,
-      "sports": false
+      "sport": false
     },
     {
       "id": 9,
@@ -79,7 +79,7 @@
       "model": "Taycan",
       "hp": 616,
       "year": 2021,
-      "sports": true
+      "sport": true
     },
     {
       "id": 10,
@@ -88,7 +88,7 @@
       "model": "Escalade",
       "hp": 420,
       "year": 2021,
-      "sports": false 
+      "sport": false 
     }
   ]
 }
