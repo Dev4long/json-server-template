@@ -8,7 +8,7 @@
       "hp": 710,
       "year": 2020,
       "sport": true,
-      "likes": 12
+      "likes": 14
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "hp": 185,
       "year": 1993,
       "sport": false,
-      "likes": 9
+      "likes": 10
     },
     {
       "id": 3,
@@ -38,7 +38,7 @@
       "hp": 730,
       "year": 2021,
       "sport": true,
-      "likes": 6
+      "likes": 7
     },
     {
       "id": 5,
@@ -78,7 +78,7 @@
       "hp": 175,
       "year": 2016,
       "sport": false,
-      "likes":35
+      "likes": 35
     },
     {
       "id": 9,
@@ -89,20 +89,6 @@
       "year": 2021,
       "sport": true,
       "likes": 2
-    },
-    {
-      "id": 10,
-      "make": "Cadillac",
-      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2020-cadillac-escalade-001-1567021710.jpg?crop=0.481xw:0.568xh;0.309xw,0.432xh&resize=640:*",
-      "model": "Escalade",
-      "hp": 420,
-      "year": 2021,
-<<<<<<< HEAD
-      "sport": false
-=======
-      "sport": false,
-      "likes": 21
->>>>>>> 1c7527b1208bff4f31b6abc72560a287fd4b2229
     }
   ]
 }
