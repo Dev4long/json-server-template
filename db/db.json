@@ -7,7 +7,8 @@
       "model": "F8 Tributo",
       "hp": 710,
       "year": 2020,
-      "sport": true
+      "sport": true,
+      "likes": 12
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "model": "Bronco",
       "hp": 185,
       "year": 1993,
-      "sport": false
+      "sport": false,
+      "likes": 9
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "model": "Durango",
       "hp": 360,
       "year": 2021,
-      "sport": false
+      "sport": false,
+      "likes": 4
     },
     {
       "id": 4,
@@ -34,16 +37,18 @@
       "model": "Aventador",
       "hp": 730,
       "year": 2021,
-      "sport": true
+      "sport": true,
+      "likes": 6
     },
     {
       "id": 5,
       "make": "Jeep",
-      "image": "https://media.ed.edmunds-media.com/jeep/patriot/2012/oem/2012_jeep_patriot_4dr-suv_latitude_f_oem_2_815.jpg",
+      "image": "https://www.motortrend.com/uploads/sites/10/2015/11/2013-jeep-patriot-latitude-suv-angular-front.png",
       "model": "Patriot",
       "hp": 158,
       "year": 2013,
-      "sport": false
+      "sport": false,
+      "likes": 20
     },
     {
       "id": 6,
@@ -52,7 +57,8 @@
       "model": "Stingray",
       "hp": 495,
       "year": 2020,
-      "sport": true
+      "sport": true,
+      "likes": 43
     },
     {
       "id": 7,
@@ -61,7 +67,8 @@
       "model": "i8",
       "hp": 369,
       "year": 2020,
-      "sport": true
+      "sport": true,
+      "likes": 55
     },
     {
       "id": 8,
@@ -70,7 +77,8 @@
       "model": "Outback",
       "hp": 175,
       "year": 2016,
-      "sport": false
+      "sport": false,
+      "likes":35
     },
     {
       "id": 9,
@@ -79,7 +87,8 @@
       "model": "Taycan",
       "hp": 616,
       "year": 2021,
-      "sport": true
+      "sport": true,
+      "likes": 2
     },
     {
       "id": 10,
@@ -88,7 +97,12 @@
       "model": "Escalade",
       "hp": 420,
       "year": 2021,
+<<<<<<< HEAD
       "sport": false
+=======
+      "sport": false,
+      "likes": 21
+>>>>>>> 1c7527b1208bff4f31b6abc72560a287fd4b2229
     }
   ]
 }
