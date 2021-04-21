@@ -39,7 +39,7 @@
     {
       "id": 5,
       "make": "Jeep",
-      "image": "https://media.ed.edmunds-media.com/jeep/patriot/2012/oem/2012_jeep_patriot_4dr-suv_latitude_f_oem_2_815.jpg",
+      "image": "https://www.motortrend.com/uploads/sites/10/2015/11/2013-jeep-patriot-latitude-suv-angular-front.png",
       "model": "Patriot",
       "hp": 158,
       "year": 2013,
@@ -89,24 +89,6 @@
       "hp": 420,
       "year": 2021,
       "sport": false
-    },
-    {
-      "make": "Dodge",
-      "image": "https://images.hgmsites.net/lrg/2017-dodge-viper_100563539_l.jpg",
-      "model": "Viper",
-      "hp": "300",
-      "year": "2013",
-      "sport": true,
-      "id": 11
-    },
-    {
-      "make": "Audi",
-      "image": "https://i.ytimg.com/vi/hjPj9ib1d0A/maxresdefault.jpg",
-      "model": "RS7",
-      "hp": "591",
-      "year": "2021",
-      "sport": false,
-      "id": 12
     }
   ]
 }
