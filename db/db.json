@@ -88,7 +88,7 @@
       "hp": 616,
       "year": 2021,
       "sport": true,
-      "likes": 2
+      "likes": 3
     },
     {
       "id": 10,
@@ -98,7 +98,17 @@
       "hp": 420,
       "year": 2021,
       "sport": false,
-      "likes": 3
+      "likes": 4
+    },
+    {
+      "make": "Jaguar",
+      "image": "https://bringatrailer.com/wp-content/uploads/2019/05/1965_jaguar_xke_coupe_1556749486dff9f98764daimage20-e1557852644188.png?fit=940%2C628",
+      "model": "XKE 4.2 coupe",
+      "hp": "265",
+      "year": "1965",
+      "sport": true,
+      "likes": 7,
+      "id": 11
     }
   ]
 }
